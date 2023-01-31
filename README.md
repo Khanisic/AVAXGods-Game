@@ -24,6 +24,7 @@
 <strong>Battle page</strong>
 <img src="./avax8.png"/>
 <strong>Player defends and game rules.</strong>
+<br/>
 Steps to install:
 
 1.Run the npm install command.
